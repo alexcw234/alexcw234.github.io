@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/hawaiiancane.png
-title: Kō An Ethnobotanical Guide to Hawaiian Sugarcane Varieties | Webspace
+title: Kō - An Ethnobotanical Guide to Hawaiian Sugarcane Varieties - Webspace
 permalink: projects/hawaiiancane
 date: 2016
 labels:
