@@ -7,7 +7,6 @@ labels:
   - Chemistry
   - Music
   - Computer Science
-summary: How I ended up studying computer science.
----
 
-## How I ended up studying computer science
+---
+How I ended up studying computer science
