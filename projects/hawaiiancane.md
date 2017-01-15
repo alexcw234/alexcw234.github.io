@@ -22,9 +22,7 @@ One such instance was on the "Cane Varieties" page, where I was requried to disp
 ![Required Table example](https://github.com/alexcw234/alexcw234.github.io/blob/master/images/ko1.png?raw=true)
 
 
-I had 2 main types of modules available to do this: 
-- Gallery modules: these allow images to be added and modified "easily" (as required) but have poor options for information display
-- Tab modules: these are ideal for organizing and displaying the information and images as Dr. Lincoln requested, however required html knowledge to do so.
+I had 2 main types of modules available to do this. Gallery modules which allow images to be added and modified "easily" (as required) but have poor options for information display, and Tab modules which are ideal for organizing and displaying the information and images as Dr. Lincoln requested, however required html knowledge to do so.
 
 In order to deal with this dichotomy, I utilized a jquery script to build the table dynamically in the Tab module by fetching the image links from the Gallery module, which was hidden upon page load. This would allow Dr. Lincoln to add images using the gallery module and have them show up on the tab module's table.
 
