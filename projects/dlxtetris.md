@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: images/dlx-tetris.png
-title: DLX Tetris
+image: images/hacc2016.png
+title: Hawaii Annual Code Challenge 2016
 permalink: projects/dlx-tetris
 date: 2016
 labels:
