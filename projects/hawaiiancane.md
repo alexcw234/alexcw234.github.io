@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/hawaiiancane.png
-title: Kō, An Ethnobotanical Guide to Hawaiian Sugarcane Varieties, Webspace
-permalink: projects/hawaiiancane
+title: Kō An Ethnobotanical Guide to Hawaiian Sugarcane Varieties | Webspace
+permalink: projects/hawaiiancane.md
 date: 2016
 labels:
   - DNN
@@ -28,7 +28,7 @@ The gallery modules required images to be added manually one by one. As there we
 
 In addition to learning jquery and Selenium, what was most valuable about this project for me was learning how to work around a less-than-ideal developer environment by using the resources that I do have access to in order to leverage user-friendlyness with custumization.
 
-
+The website can be found [here](http://cms.ctahr.hawaii.edu/cane/Home.aspx).
 
 
 
