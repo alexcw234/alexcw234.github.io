@@ -18,7 +18,11 @@ I was hired to build a webspace for Dr. Lincoln's book on Hawaiian Sugarcane var
 
 Since Dr. Lincoln wanted a site that he could make basic changes to without any knowledge about programming or web development. To assist in this I used UH Manoa College of Tropical Agriculture and Human Resources (CTAHR)'s DNN content management system as a base for the site. After creating the basic scaffold of built-in modules and static information, I used jquery to implement additional functionality as required. 
 
-One such instance was on the "Cane Varieties" page, where I was requried to display a large number of images and descriptions side by side in a table. I had 2 main types of modules available to do this: 
+One such instance was on the "Cane Varieties" page, where I was requried to display a large number of images and descriptions side by side in a table:
+![Required Table example](https://github.com/alexcw234/alexcw234.github.io/blob/master/images/ko1.png?raw=true)
+
+
+I had 2 main types of modules available to do this: 
 - Gallery modules: these allow images to be added and modified "easily" (as required) but have poor options for information display
 - Tab modules: these are ideal for organizing and displaying the information and images as Dr. Lincoln requested, however required html knowledge to do so.
 
