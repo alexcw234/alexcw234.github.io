@@ -19,7 +19,7 @@ Wikipedia defines "Social Bookmarking" as: "a centralized online service which a
 
 
 
-
+![Information Entry](https://github.com/alexcw234/alexcw234.github.io/blob/master/images/newentry.png?raw=true)
 
 
 Fey Anthology is meant to be modular, meaning that anyone could install the system on their own site and have their own database to share links among their online community.
