@@ -17,10 +17,7 @@ Fey Anthology is a "Social Bookmarking Service", using Laravel, AngularJS, and P
 Wikipedia defines "Social Bookmarking" as: "a centralized online service which allows users to add, annotate, edit, and share bookmarks of web documents." [source](https://en.wikipedia.org/wiki/Social_bookmarking)
 
 
-
-
-![Information Entry](https://github.com/alexcw234/alexcw234.github.io/blob/master/images/newentry.png?raw=true)
-
+<img src="https://github.com/alexcw234/alexcw234.github.io/blob/master/images/newentry.png?raw=true" alt="Information Entry" width="629" height="475">
 
 Fey Anthology is meant to be modular, meaning that anyone could install the system on their own site and have their own database to share links among their online community.
 
