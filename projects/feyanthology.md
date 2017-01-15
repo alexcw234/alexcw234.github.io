@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/feyanthology.jpg
+image: images/feyanthology.png
 title: Fey Anthology
 permalink: projects/feyanthology
 date: 2016
