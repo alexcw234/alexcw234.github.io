@@ -20,6 +20,4 @@ The game has the following functions:
 - 4 different pieces
 - Scorekeeping
 
-Because of the loops required in rotation and movement of the pieces it unfortunately runs very slowly on the maximum speed of Logisim. However all the features work. Think of it as "Correspondance Tetris" :)
-
 Source code can be found [here](https://github.com/alexcw234/dlxtetris/) (in the folder "Source_Code").
