@@ -12,7 +12,7 @@ labels:
 summary: A social bookmarking service. Intended to help communities of shared creative interests collect relevant resources for easy access.
 ---
 
-Fey Anthology is a Social Bookmarking web app that I have been working on as a side project. Social bookmarking services are centeralized web services where users can collect and share links to web documents. It is meant for online communities with very specific topical focuses that nonetheless spans multiple media forms (eg. stories, art/photography, videos, etc). 
+Fey Anthology is a Social Bookmarking web app that I have been working on as a side project. Social bookmarking services are centeralized web services where users can collect and share links to web documents. Fey Anthology is meant for online sub-communities with very specific topical focuses that nonetheless spans multiple media forms (eg. stories/articles, art/photography, videos, etc). Such a community might be found within a single multi-page forum thread on an online forum, for example.
 
 
 Laravel, AngularJS, and Postgresql.
