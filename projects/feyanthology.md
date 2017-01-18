@@ -17,8 +17,7 @@ Fey Anthology is a Social Bookmarking web app that I have been working on as a s
 People who participate in online forums (and similar) form online communities around common interests. Within these communities, however, many participants contribute to just one or a few topics amongst the set of topics covered by the site, essentially forming a collection of sub-communities.
 
 Fey Anthology is meant for online sub-communities with a very specific focus that nonetheless spans multiple media forms (eg. art/photography, stories/articles, videos, etc). Resources of interest to these subcommunities may be abundant, but are often spread across multiple sites and mixed in with other content that is only peripherally relevant. Insufficient specificty of search features can make finding resources difficult and sometimes (especially when the site features infinite scrolling) even *annoying* to access.
-
-
+I started this project therefore to create a way for these sub-communities can archive and easily access relevant content.
 
 Laravel, AngularJS, and Postgresql.
 
