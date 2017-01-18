@@ -9,7 +9,7 @@ labels:
   - AngularJS
   - Laravel
   - PostgreSQL
-summary: A social bookmarking service. Intended to help communities of shared creative interests collect relevant resources for easy access.
+summary: A social bookmarking service. Intended to help online sub-communities with specific interests collect relevant resources for easy access.
 ---
 
 Fey Anthology is a Social Bookmarking web app that I have been working on as a side project. Social bookmarking services are centeralized web services where users can collect and share links to web documents. 
