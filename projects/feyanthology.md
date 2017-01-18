@@ -19,11 +19,10 @@ People who participate in online forums (and similar) form online communities ar
 Fey Anthology is meant for online sub-communities with a very specific focus that nonetheless spans multiple media forms (eg. art/photography, stories/articles, videos, etc). Resources of interest to these subcommunities may be abundant, but are often spread across multiple sites and mixed in with other content that is only peripherally relevant. Insufficient specificty of search features can make finding resources difficult and sometimes (especially when the site features infinite scrolling) even *annoying* to access.
 I started this project therefore to create a way for these sub-communities can archive and easily access relevant content.
 
-Laravel, AngularJS, and Postgresql.
+My other objective through this project was to gain knowledge of web frameworks and web development. As I had been already using PHP for my ICS321 class (Data storage and Retreival), I chose to use the PHP framework Laravel for the backend to build off of what I already knew. 
+AngularJS, and Postgresql.
 
 <img src="https://github.com/alexcw234/alexcw234.github.io/blob/master/images/newentry.png?raw=true" alt="Information Entry" width="629" height="475">
-
-Fey Anthology is meant to be modular, meaning that anyone could install the system on their own site and have their own database to share links among their online community.
 
 The most recent version can be found [here](http://feyanthology.herokuapp.com/).
 
