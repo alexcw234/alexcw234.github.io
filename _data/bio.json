@@ -78,6 +78,24 @@
     }
   ],
   "education": [
+      {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2018)",
+      "studyType": "B.S.",
+      "startDate": "2016-01 (declared)",
+      "endDate": "Present",
+      "gpa": "3.8",
+      "courses": [
+        "Data Structures",
+        "C Programming",
+        "Databases",
+        "Logic Design and Microprocessors",
+        "Bioinformatics",
+        "Discrete Math",
+        "Algorithms (Current)",
+        "Software Engineering (Current)"
+      ]
+    },
      {
       "institution": "Oberlin College, Oberlin OH",
       "area": "Chemistry",
@@ -107,25 +125,8 @@
         "Opera Pit",
         "Chamber Music"
       ]
-    },
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2016-01 (declared)",
-      "endDate": "Present",
-      "gpa": "3.8",
-      "courses": [
-        "Data Structures",
-        "C Programming",
-        "Databases",
-        "Logic Design and Microprocessors",
-        "Bioinformatics",
-        "Discrete Math",
-        "Algorithms (Current)",
-        "Software Engineering (Current)"
-      ]
     }
+ 
   ],
   "work": [
     {
