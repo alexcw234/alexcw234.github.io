@@ -19,4 +19,9 @@ When I graduated from Oberlin, I began taking biology classes at UH Manoa, a fie
 
 I was still looking to apply for a masters program in Pharmaceutical science or Bioinformatics at that point, and went through all the steps short of submitting my applications. However, I began to realize how much I enjoyed writing computer programs: I was able to use the analytical and problem solving skills that I had developed through studying chemistry, but at the same time the whole process of creating a program felt incredibly similar to learning and practicing a piece of music.
 
-And I think that makes sense. In music you have (typically) the requirements of the composer, and as the performer you have to decide how to meet them with the skill, techniques, and ideas you have available in order to create a pleasing performance. In both a focused practice session and a focused programming session there was the same feeling of being "in the zone". After spending years straddling two disparate fields, computer science seemed like something that I was looking for all along.
+And I think that makes sense. In music you have (typically) the requirements of the composer, and as the performer you have to decide how to meet them with the skill, techniques, and ideas you have available in order to create a pleasing performance. In both a focused practice session and a focused programming session I found the same feeling of being "in the zone". After spending years straddling two disparate fields, computer science seemed like something that I was looking for all along.
+
+As far as software engineering, it was relatively recently that I entered the technology field and I am essentially interested in anything that I can learn about precicely because there is so much to learn about. However, I am particularly interested in web development and cyber security.
+
+I hope to gain more experience in creating software through learning about the software engineering process. Additionally I hope to be able to find an area of software engineering that I am most interested in and can focus on.
+
