@@ -15,4 +15,7 @@ I am a 2nd Bachelor's student at UH Manoa studying Computer Science, although it
 
 I originally decided to major in chemistry with a plan to apply to medical school, but soon became more interested in scientific research, eventually settling on the pharmaceutical sciences. Majoring in music was a personal desire: I have played the violin for most of my life and the chance to study at an internationally reknowned music conservatory was too good to pass up.
 
-When I graduated from Oberlin, I began taking biology classes at UH Manoa, a field I hadn't studied as a chem major but is required for pharmaceutical sciences. In one of my classes I took an interest in Bioinformatics, which led me to take my first computer science class, ICS 111, in spring of 2015. 
+When I graduated from Oberlin, I began taking biology classes at UH Manoa, a field I hadn't studied as a chem major but is required for pharmaceutical sciences. In one of my classes I became interested in Bioinformatics, which led me to take my first computer science class, ICS 111, in the spring of 2015. 
+
+I was still looking to apply for a masters program in Pharmaceutical science or Bioinformatics at that point, and went through all the steps short of submitting my applications. However, I began to realize how much I enjoyed writing computer programs: I was able to use the analytical and problem solving skills that I had developed through studying chemistry, but at the same time the whole process of creating a program felt incredibly similar to learning and practicing a piece of music.
+
