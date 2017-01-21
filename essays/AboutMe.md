@@ -16,7 +16,12 @@ I am a 2nd Bachelor's student at UH Manoa studying Computer Science, although it
 
 I originally decided to major in chemistry with a plan to apply to medical school, but soon became more interested in scientific research, eventually settling on the pharmaceutical sciences. Majoring in music was a personal desire: I have played the violin for most of my life and the chance to study at an internationally reknowned music conservatory was too good to pass up.
 
+![Playing violin](/images/violining.jpg)
+
 During my time at Oberlin I never would have guessed that I ultimately would decide to pursue a career in the technology field. I did, however, have a breif brush with programming during a winter term project in my sophomore year involving computational chemistry. In the project I used a computer program for core-hole x-ray spectrosopy analysis, and involved some coding using Matlab. In hindsight, I realize I did enjoy the programming aspect of the project more than the science aspect, but I didn't realize it at the time. If I were to do it over again, I would have taken some computer classes during my time at Oberlin. However, I would give up my Chemistry or Music study.
+
+![Doing chemistry](/images/chemistrying.JPG)
+
 
 ### How I ended up studying computer science.
 
