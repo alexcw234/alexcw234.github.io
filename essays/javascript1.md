@@ -26,7 +26,7 @@ After that first impression, I gave up. But like I said, I started learning it l
 
 Although it is still a new language to me, now that I have been using it more I definitely enjoy it. I certainly like it more than Java and C++, though not as much as Python simply because of how much it is wedded to the web browser. In ICS 314 we did a basic Javascript course using freeCodeCamp. I think this was an excellent overview and I wish I had known about it when I started learning Javascript. I already learned a couple things that I hadn't known about, or had known about but never had reason to use, such as objects and I see a lot of new things that will be covered soon: I didn't know that Javascript could be object-oriented for instance. "Let" and "Const" are new to me as well.
 
-I think the WODs that we have been doing in Javascript for this class have been helpful in learning how to approach problems efficiently and under pressure, which will be important later on during interviews. 
+I think the WODs that we have been doing in Javascript for this class have been helpful in learning how to approach problems efficiently and under pressure, which will be important later on during interviews. Personally, I do not find the style stressful and, as long as there is a good balance with projects and other things, I enjoy the challenge.
 
 
 
