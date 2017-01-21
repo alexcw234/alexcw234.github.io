@@ -18,7 +18,11 @@ Well, it turns out that most of those tutorials were actually trying to teach me
 
 ### Ok let's try again!
 
-After that first impression, I gave up. But like I said, I started learning it later when I attended the AT&T Hackathon. My team and I were designing an app for the UH van service and we were using the Ionic framework, which used AngularJS. Because of that, I began to try and learn the language so I could use Angular on the project. As it turns out, a framework adds a whole new layer of complications! Still, it was an extremely valuable experience and I ended up learning and using Angular properly on a side project later on. As for Javascript itself, it wasn't until I started my job at UH Manoa College of Tropical Agriculture and Human Resources that I used it  separately. Until that point I only used it as required by whatever conroller or provider I had to be writing.
+After that first impression, I gave up. But like I said, I started learning it later when I attended the AT&T Hackathon. My team and I were designing an app for the UH van service and we were using the Ionic framework, which used AngularJS. Because of that, I began to try and learn the language so I could use Angular on the project. 
+
+![UH Van sevice app](/images/Vanservice.PNG)
+
+As it turns out, a framework adds a whole new layer of complications! Still, it was an extremely valuable experience and I ended up learning and using Angular properly on a side project later on. As for Javascript itself, it wasn't until I started my job at UH Manoa College of Tropical Agriculture and Human Resources that I used it  separately. Until that point I only used it as required by whatever conroller or provider I had to be writing.
 
 [I wrote about the site I was working on in my projects' section](https://alexcw234.github.io/projects/hawaiiancane)
 
