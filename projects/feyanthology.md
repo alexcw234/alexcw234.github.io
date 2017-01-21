@@ -19,10 +19,13 @@ People who participate in online forums (and similar) form online communities ar
 Fey Anthology is meant for online sub-communities with a very specific focus that nonetheless spans multiple media forms (eg. art/photography, stories/articles, videos, etc). Resources of interest to these subcommunities may be abundant, but are often spread across multiple sites and mixed in with other content that is only peripherally relevant. Insufficient specificty of search features can make finding resources difficult and sometimes (especially when the site features infinite scrolling) even *annoying* to access.
 I started this project therefore to create a way for these sub-communities can archive and easily access relevant content.
 
-My other objective through this project was to gain knowledge of web frameworks and web development. As I had been already using PHP for my ICS321 class (Data storage and Retreival), I chose to use the PHP framework Laravel for the backend to build off of what I already knew. 
-AngularJS, and Postgresql.
+My other objective through this project was to gain knowledge of web frameworks and web development. As I had been already using PHP for my ICS321 class (Data storage and Retreival), I chose to use the PHP framework Laravel for the backend to build off of what I already knew. I decided to use AngularJS as a front-end framework after first being exposed to it (and having trouble learning how to use it) while participating in the AT&T Hackathon in March of 2016. Therefore with this project I wanted to learn AngularJS properly.
 
 <img src="https://github.com/alexcw234/alexcw234.github.io/blob/master/images/newentry.png?raw=true" alt="Information Entry" width="629" height="475">
+
+Fey Anthology is still definitely a work in progress, especially in regards to appearance, but the essential features work. Users can create accounts, submit new links, or search for existing ones. Moderators can accept or reject user submissions, delete or edit existing ones, and select content to feature on the homepage. Finally the Administrator can control user permissions as well as have an interface to edit the text on the site.
+
+I think overall this project was a good introduction to the complex process that goes into building a web application. I will definitely be able to utilize what I learned here in the future.
 
 The most recent version can be found [here](http://feyanthology.herokuapp.com/).
 
