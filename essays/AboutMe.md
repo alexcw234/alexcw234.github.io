@@ -10,7 +10,7 @@ labels:
 
 ---
 
-#### Science and Music?
+### Science and Music?
 
 I am a 2nd Bachelor's student at UH Manoa studying Computer Science, although it would actually be my 3rd Bachelor's degree. Prior to this I attended Oberlin College in Ohio where I completed a double degree program in Chemistry and Violin performance. 
 
