@@ -9,7 +9,7 @@ labels:
   - Computer Science
 
 ---
-## How I ended up studying computer science.
+### How I ended up studying computer science.
 
 I am a 2nd Bachelor's student at UH Manoa studying Computer Science, although it would actually be my 3rd Bachelor's degree. Prior to this I attended Oberlin College in Ohio where I completed a double degree program in Chemistry and Violin performance. During my time at Oberlin I never would have guessed that I ultimately would decide to pursue a career in the technology field.
 
