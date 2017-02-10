@@ -16,75 +16,31 @@ For an example, this is a small segment of a java program I wrote during the sum
 
 ```
 void Placer(Member[] PartMem, int[] Sizes, String[] Titles){
-if(Current<16 && Current > -1){	
-int npos = PartMem[Current].nPositions;
+if(Current<16 && Current > -1){	int npos = PartMem[Current].nPositions;
 int[] Positions = PartMem[Current].Positions;
 int whatpos=0;
 for(int i = 0; i < npos; i++){ 
 whatpos = Positions[i];
-	if(CheckList[whatpos]==false){ 
-		Blank[whatpos] = PartMem[Current].memberName;
-		CheckList[whatpos] = true;	
-		PartMem[Current].Assign();
-		PartMem[Current].Good(i);
-	} else {PartMem[Current].NotGood(i);}	
+if(CheckList[whatpos]==false){ Blank[whatpos] = PartMem[Current].memberName;
+	CheckList[whatpos] = true;	
+	PartMem[Current].Assign();
+	PartMem[Current].Good(i);
+} else {PartMem[Current].NotGood(i);}	
 }
-	if(PartMem[Current].Assigned==false){
-		PartMem[Current].Unassign();
-		for(int r=0; r<npos; r++){
-			if(PartMem[Current].GoodPositions[r] == 1){
-				CheckList[PartMem[Current].Positions[r]]=false;
-			}
+if(PartMem[Current].Assigned==false){
+	PartMem[Current].Unassign();
+	for(int r=0; r<npos; r++){
+		if(PartMem[Current].GoodPositions[r] == 1){
+			CheckList[PartMem[Current].Positions[r]]=false;
 		}
-		Current--;	
 	}
-	else if(PartMem[Current].Assigned==true){
-		for(int i=0; i< npos; i++){
-			int[] tempGoodPositions = PartMem[Current].GoodPositions;
-			if(PartMem[Current].GoodPositions[i] == 1){
-				for(int v=0; v<npos; v++){
-					if(PartMem[Current].GoodPositions[v] == 1 && v != i){
-						CheckList[Positions[v]]=false;
-					}
-				}
-				Blank[PartMem[Current].Positions[i]] = PartMem[Current].memberName;
-				Current++;
-				Placer(PartMem, Sizes, Titles);
-				
-				for(int v=0; v<npos; v++){
-					if(tempGoodPositions[v] == 1){
-						CheckList[Positions[v]]=true;
-					}
-				}
-				}		
-			}
-		if(Current<16){
-			PartMem[Current].Unassign();
-			for(int r=0; r<npos; r++){
-				if(PartMem[Current].GoodPositions[r] == 1){
-					CheckList[PartMem[Current].Positions[r]]=false;
-				}
-			}
-			if(Current-1 > -1){
-			Current--;	
-		} 
-		}
-	}	
-}
-else {
-	int membercount = 0;
-	for(int t=0; t<Titles.length; t++){
-		System.out.print(Titles[t]+": ");
-		for(int m = membercount; m<membercount+Sizes[t];m++){
-			System.out.print(Blank[m]+" ");
-		}
-		membercount = membercount + Sizes[t];
-		System.out.println("");
-}
-Current--;
-RosterCount++;
-}
+	Current--;	
 }
 }
 ```
+It's difficult to look at this and figure out what I was going on, even if there were comments explaining each line. If I had written this using a structured format, while it would have still taken time to understand since it has been so long, at least I would have a starting point.
+
+As it is difficult to keep track of all the rules of a coding standard, I think it is definitely helpful to have something like ESLint with IntelliJ to keep track of the coding standards for me. While has been a little annoying use it, especially for the rules that I was not accusomed to in how I tend to code naturally (especially where to put the spaces in the function statements), I think that as I continue to follow the ESLint standard it will certainly become natural.
+
+
 One thing that I am not so keen on in coding standards is restrictions having lines in between lines of code. Sometimes I find this makes the code harder to read, particularly when there is a lot going on. Especially since the opening braces are also supposed to be on the same line as the statement it applies to, rather than a line of its own. 
