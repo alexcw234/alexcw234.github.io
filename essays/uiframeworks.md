@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: How to make websites look nice without (as much) struggle: UI Frameworks.
+title: How to make websites look nice without (as much) struggle- UI Frameworks.
 date: 2017-02-23
 labels:
   - Semantic ui
