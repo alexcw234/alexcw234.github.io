@@ -26,7 +26,17 @@ There should be Admin functions for food place owners to add their food items.
 
 # Use case ideas
 
-
-
+Login, add menu items, search restaurants, search restaurant menu, delete menu items, view profile, enter information, view your nutrient requirements, modify your requirements, view statistics, deficiency notifier, information on nutrients, nutrient overdose notifier, dietary needs/preferences.
 
 # Beyond the basics
+Social media aspect: DM's, pictures
+Gamification.
+Downloading meal plans.
+Transactions, order to go, spending tracking.
+Link to amazon products.
+Links to other social media.
+Upload your bloodwork.
+Metabolic reports.
+Health services articles, advertising.
+Public Forum
+Native app
