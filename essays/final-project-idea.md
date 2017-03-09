@@ -7,6 +7,8 @@ labels:
   - Software Engineering
   - Meteor
 ---
+By Christopher Oh, Alex Watanabe, Mark Cummins
+
 # Overview 
 The problem: Students are not fulfilling their daily micro-nutrient requirements. Fulfilling micro-nutrient requirements is important as it helps improve focus, brain function and basic quality of life.
 
