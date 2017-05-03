@@ -1,8 +1,8 @@
 ---
 layout: essay
 type: essay
-title: Config Management
-date: 2017-01-31
+title: Ethics and the Killer Car
+date: 2017-05-02
 labels:
   - ethics
   - automatic cars
