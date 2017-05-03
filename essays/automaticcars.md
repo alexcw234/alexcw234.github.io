@@ -15,6 +15,7 @@ But, in thinking about that question, I read [this article](https://www.technolo
 The article talks about how the designers behind self-driving cars must deal with the ethical dilemma of choosing between killing a pedestrian(s) or the car's occupant(s). It provides the argument (correctly, in my opinion), that the car should be programmed to minimize the death toll. However, it also states findings that people who hold that view generally don't picture themselves as a passenger of the vehicle.
 
 ![Selfdriving](https://github.com/alexcw234/alexcw234.github.io/blob/master/images/6_fi-ziptopia-zipcar-generic-autonomous-cars-image_2.jpg?raw=true)
+
 *Now imagine that but sending you straight into a person, or a wall*
 
 I think that the article definitely provided some interesting things to think about simply by bringing up the point that there will be situations in that it would be impossible to avoid a death-causing accident.
