@@ -17,4 +17,6 @@ The article talks about how the designers behind self-driving cars must deal wit
 I think that the article definitely provided some interesting things to think about simply by bringing up the point that there will be situations in that it would be impossible to avoid a death-causing accident.
 This is why ethics can't be simplified to simply "this thing could hurt people, so don't do the thing". That is, except when it can.
 
-If I wasn't skeptical of self-driving cars already (which I am), I would have been made so from this article. After all, aside from the ethical dilemma, in presenting its findings it seems like the entire concept would fail to be accepted by the public. 
+If I wasn't skeptical of self-driving cars already (which I am), I would have been made so from this article. After all, aside from the ethical dilemma, in presenting its findings it seems like the entire concept would fail to be accepted by the public. One might argue that we put a lot of trust in computers already, but most of those things aren't life-endangering if they fail and those that are aren't tools that we use every day such as cars. For people to be willing to put their daily travel in the hands of a computer algorithm, I do not think that society is ready. Like the article seems to imply: automatic cars seem like a cool idea and amazing from an innovation standpoint, but most people don't picture themselves behind the wheel of one of them.
+
+
