@@ -1,13 +1,12 @@
 ---
 layout: essay
 type: essay
-title: Reflecting on Javascript Part 1
+title: Reflecting on Javascript and how bad first impressions aren't everything
 date: 2017-01-20
 labels:
   - Javascript
 
 ---
-## Reflecting on Javascript Part 1
 
 ### First Impression...
 I have a little prior experience with Javascript, having started learning Javascript properly less than a year ago. Honestly, I was reluctant to do so at the time. I did glance at a few Javascript tutorials and examples prior to that point and was not given the best impression of the language. Keep in mind that I was a beginner computer science student back then: I was good at Java, had exposure to Python and Perl, but didn't know much else. 
@@ -26,7 +25,7 @@ As it turns out, a framework adds a whole new layer of complications! Still, it 
 
 [I wrote about the site I was working on in my projects' section](https://alexcw234.github.io/projects/hawaiiancane)
 
-### Impressions Now
+### My Impressions Now
 
 Although it is still a new language to me, now that I have been using it more I definitely enjoy it. I certainly like it more than Java and C++, though not as much as Python simply because of how much it is wedded to the web browser. In ICS 314 we did a basic Javascript course using freeCodeCamp. I think this was an excellent overview and I wish I had known about it when I started learning Javascript. I already learned a couple things that I hadn't known about, or had known about but never had reason to use, such as objects and I see a lot of new things that will be covered soon: I didn't know that Javascript could be object-oriented for instance. "Let" and "Const" are new to me as well.
 
