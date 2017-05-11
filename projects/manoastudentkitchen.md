@@ -32,7 +32,12 @@ I worked in a group with 2 other students on this project. Although towards the 
 
 ![Add Recipe Page](https://github.com/alexcw234/alexcw234.github.io/blob/master/images/addrecipe.png?raw=true)
 
-It was helpful to be working in a group on a number of levels. For one thing, had I been working alone, the application would probably have ended up with an interface that was quite ugly and spartan (though fully functional). Fortunately, my group members were much more attuned to ui design principles than I am, and so I was able to focus more on the functional aspects of the application.
+It was helpful to be working in a group on a number of levels. For one thing, as implied by the caption above, had I been working alone, the application would probably have had a lot of trouble with making the user interface, especially in making one that looks nice. Fortunately, my group members were much more attuned to ui design principles than I am, and so I was able to focus more on the functional aspects of the application.
+
+## What I learned
+This was the first larger coding project that I worked on in a group. As such it was a learning experience. On one hand, having to manage various branches and avoid conflicts turned out to be less of a problem than I thought it would be. On the other hand, there were moments when I felt like I should be doing more but have to wait for other features to be implemented before continuing. In the end, I admit that the 'vertical development' attitude that we tried to approach the applciation from fell through, and I ended up contributing more to the functionality with helper functions and reactive variables while my group members built most of the UI.
+
+A valuable lesson that I learned was when to let go of a desired feature and take a different approach. This occured in my attempt to implement an imgur api. I was able to implement everything successfully: the image got submitted to imgur and returned a callback as a URL, which appeared fine when pasted into the browser bar, but any attempts to make the image appear in an image tag gave me a 403 forbidden error. Despite how close I was to implementing the Imgur upload, I decided it was better to forgo it and take a different approach to storing the images. It cost me a few hours of my time, but it was a valuable lesson to learn (Besides I did learn how to send http headers in javascript, so it wasn't a total loss regardless).
 
 
 
