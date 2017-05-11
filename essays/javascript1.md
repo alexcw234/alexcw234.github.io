@@ -21,15 +21,20 @@ After that first impression, I gave up. But like I said, I started learning it l
 
 ![UH Van sevice app](/images/Vanservice.PNG)
 
-As it turns out, a framework adds a whole new layer of complications! Still, it was an extremely valuable experience and I ended up learning and using Angular properly on a side project later on. As for Javascript itself, it wasn't until I started my job at UH Manoa College of Tropical Agriculture and Human Resources that I used it  separately. Until that point I only used it as required by whatever conroller or provider I had to be writing.
+As it turns out, a framework adds a whole new layer of complications! Still, it was an extremely valuable experience and I ended up learning and using Angular properly on a side project later on. As for Javascript itself, it wasn't until I started my job at UH Manoa College of Tropical Agriculture and Human Resources that I used it separately. Until that point it was mostly a means to an end, and I only used it as required by whatever conroller or provider I had to be writing.
 
 [I wrote about the site I was working on in my projects' section](https://alexcw234.github.io/projects/hawaiiancane)
 
-### My Impressions Now
+### Second Impression...
 
-Although it is still a new language to me, now that I have been using it more I definitely enjoy it. I certainly like it more than Java and C++, though not as much as Python simply because of how much it is wedded to the web browser. In ICS 314 we did a basic Javascript course using freeCodeCamp. I think this was an excellent overview and I wish I had known about it when I started learning Javascript. I already learned a couple things that I hadn't known about, or had known about but never had reason to use, such as objects and I see a lot of new things that will be covered soon: I didn't know that Javascript could be object-oriented for instance. "Let" and "Const" are new to me as well.
+After using Javascript for the entire semester of Spring 2017 during my Software Engineering class, I can firmly say that my opinion on the language is a lot better than it was before. I certainly like it more than Java and C++, though not as much as Python simply because of how much it is wedded to the web browser.
 
-I think the WODs that we have been doing in Javascript for this class have been helpful in learning how to approach problems efficiently and under pressure, which will be important later on during interviews. Personally, I do not find the style stressful and, as long as there is a good balance with projects and other things, I enjoy the challenge.
+In addition, I was given the opportunity at work to design a [data collection interface and database for a breadfruit research project](http://breadfruit-phenology.herokuapp.com/#/home). I used AngularJS for the frontend, drawing on my experience from building my sideproject. This experience gave me an opportunity to practice in the framework, in that I was implementing features that I already knew how to implement, instead of spending time figuring out how to put them together from scratch.
+
+Finally, as part of my Software Engineering course, we developed an application using the Meteor Framework. As I had experience with the Angular framework, I was able to bring some of the concepts over to my approach in designing the application. Like with my first angular application, there was definitely plenty of time spent figuring out the basics, and if I could defintely see myself improving with more practice.
+
+I think the most important thing I gained from both my experiences with Meteor and Angular in the past few months has been a greater  appreciation for web frameworks, as well as a greater confidence in my abilities codign in the Javascript language. I am left with a closing thought, however: given the usefulness of frameworks, perhaps it could be said, after all, that a coding language is a means to an end for bigger ideas.
+
 
 
 
