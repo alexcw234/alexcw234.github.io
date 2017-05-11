@@ -20,7 +20,6 @@ Manoa Student Kitchen is an application that allows students at UH Manoa to shar
 As mentioned above students will be able to submit their own recipes to the application. The recipes will then show up when searched for by tag or by recipe name.
 
 ![Photo of the homepage](https://github.com/alexcw234/alexcw234.github.io/blob/master/images/home.png?raw=true) 
-<!-- .element height="50%" width="50%" -->
 
 Inspired by Steam tags, the application has a feature allowing users to tag a recipe with a label like "dessert", or "cheap", which helps in the searching process. The most common tags are deemed "popular tags" and appear in a random selection at the bottom of the homepage. In addition, recipes with the most tags appear as "popular recipes" on the homepage.
 
