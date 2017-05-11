@@ -1,13 +1,13 @@
 ---
 layout: project
 type: project
-image: images/feyanthology.png
-title: Fey Anthology
-permalink: projects/feyanthology
-date: 2016
+image: images/toasteroven.png
+title: Manoa Student Kitchen
+permalink: projects/manoastudentkitchen
+date: 2017
 labels:
-  - AngularJS
-  - Laravel
-  - PostgreSQL
-summary: A social bookmarking service. Intended to help online sub-communities with specific interests collect relevant resources for easy access.
+  - Meteor
+  - Semantic UI
+  - Javascript
+summary: Manoa Student Kitchen is an application that provides students at UH Manoa to share and browse easy-to-make recipes.
 ---
